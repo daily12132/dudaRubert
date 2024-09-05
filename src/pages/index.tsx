@@ -163,7 +163,7 @@ export default function Home() {
 
               <div>
                 <h2 className="flex items-center font-bold">
-                  MEL MAIA 🍯{' '}
+                  Duda Rubert
                   <CheckCircle size={16} weight="fill" color="#1977F2" />
                 </h2>
                 <p className="text-sm">• los angeles / 🇧🇷</p>
