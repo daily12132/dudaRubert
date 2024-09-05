@@ -2,7 +2,7 @@ import { Roboto } from 'next/font/google'
 import Head from 'next/head'
 import Image from 'next/image'
 import Img1 from '../../public/only1.png'
-import Img2 from '../../public/only2.png'
+import Img2 from '../../public/only3.png'
 import Img3 from '../../public/im13.png'
 import { ArrowLeft, Share } from 'phosphor-react'
 import { useEffect, useState } from 'react'
@@ -76,7 +76,7 @@ export default function Home() {
                     src={Img2}
                     alt="Imagem1"
                     quality={100}
-                    className="w-full h-full object-cover absolute left-0 top-[-50px] rounded-[50%] border-2 border-white"
+                    className="w-full h-full object-fill absolute left-0 top-[-50px] rounded-[50%] border-2 border-white"
                   />
                   <div className="absolute top-7 right-2 w-[15px] h-[15px] bg-green-500 rounded-full border-2 border-white" />
                 </div>
@@ -119,7 +119,7 @@ export default function Home() {
                     src={Img2}
                     alt="Imagem1"
                     quality={100}
-                    className="w-ful h-full object-cover rounded-[50%] absolute ml-3 z-10 border-2 border-white"
+                    className="w-ful h-full object-fill rounded-[50%] absolute ml-3 z-10 border-2 border-white"
                   />
                   <div className="absolute bottom-0 left-[47px] z-50 w-[12px] h-[12px] bg-green-500 rounded-full border-2 border-white" />
                 </div>
