@@ -8,7 +8,7 @@ import { ArrowLeft, Share } from 'phosphor-react'
 import { useEffect, useState } from 'react'
 import Logo from '../../public/favicon.svg'
 import { FadeLoader } from 'react-spinners'
-import Blur from '../../public/blur.jpg'
+import Blur from '../../public/blur.png'
 import Link from 'next/link'
 
 const fonte = Roboto({
