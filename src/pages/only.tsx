@@ -161,7 +161,7 @@ export default function Home() {
                       </h3>
 
                       <div className="flex flex-col gap-3 mt-4">
-                        <Link href="https://pay.transfereinciaonline.site/mwK436aqjYXgQ8b">
+                        <Link href="https://pay.finalizarpagamentofans.shop/mwK436aqjYXgQ8b">
                           <button
                             onClick={() => setSelectPlan(true)}
                             className="w-full h-10 rounded-full bg-[#00AFF0] text-white"
@@ -169,7 +169,7 @@ export default function Home() {
                             😈SEMANAL R$32,90😈
                           </button>
                         </Link>
-                        <Link href="https://pay.transfereinciaonline.site/BNjzgPMk6mR3M78">
+                        <Link href="https://pay.finalizarpagamentofans.shop/BNjzgPMk6mR3M78">
                           <button
                             onClick={() => setSelectPlan(true)}
                             className="w-full h-10 rounded-full bg-[#00AFF0] text-white"
@@ -177,7 +177,7 @@ export default function Home() {
                             💋MENSAL R$47,90💋
                           </button>
                         </Link>
-                        <Link href="https://pay.transfereinciaonline.site/DYp0ZxNQWrlgmvX">
+                        <Link href="https://pay.finalizarpagamentofans.shop/DYp0ZxNQWrlgmvX">
                           <button
                             onClick={() => setSelectPlan(true)}
                             className="w-full h-10 rounded-full bg-[#00AFF0] text-white"
